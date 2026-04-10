@@ -77,19 +77,19 @@ The dataset contains customer support interactions with features such as:
 
 ### 🟦 Overview Dashboard
 
-![Overview](images/Dashboard_Customer_Support_...)
+![Overview](images/Dashboard_Customer_Support_Overview.png)
 
 ---
 
 ### 🟪 NLP & Issue Analysis
 
-![NLP](images/Dashboard_NLP_Issue_Analysis...)
+![NLP](images/Dashboad_NLP_Issue_Analysis.png)
 
 ---
 
 ### 🟩 Customer Segmentation
 
-![Clustering](images/Dashboard_Customer_segment...)
+![Clustering](images/Dashboard_Customer_segmentation.png)
 
 ---
 
@@ -133,7 +133,6 @@ customer-support-analytics/
 ├── notebooks/
 ├── dashboard/
 ├── images/
-├── reports/
 ├── requirements.txt
 └── README.md
 ```
